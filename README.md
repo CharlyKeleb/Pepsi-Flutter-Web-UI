@@ -5,13 +5,13 @@ I replicated a simple pepsi web page with Flutter Web, i got the UI inspiration 
 Star⭐ the repo if you like what you see😉.
 
 
-#Screenshots
+# Screenshots
 <p>
 <img src="ss/s1.png" width="800"/>
 </p>
 
 ## 🤓 Author(s)
-**Charly Keleb Charles042** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
+**Charly Keleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
 
 
 ## Getting Started
